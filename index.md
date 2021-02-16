@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## A better way to track your timetable.
 
-You can use the [editor on GitHub](https://github.com/rootinstinct/BetterTimetable/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+BetterTimetable is a small project developed by myself after encountering a bit of a problem, I couldn't track my timetable, it was inconvienient having to use work arounds to track it in a way that didn't over complicate it. This is my solution.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Constantly updated, this will scale up as I work on it. Considering there's still alot to do, expect alot of updates.
 
-### Markdown
+### Alpha 2: The next stage of BetterTimetable
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+BetterTimetable is getting better. Here's a highlight of the features coming up at 02/16.
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+--> New Setup Process. Improving the UX.
+--> Actually configuring the timetable from the command line instead from the code itself.
+--> And general fixes and improvements.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+*But it's still currently 0.1.2, this is just a preview of 0.2 coming 02/16*
 
-### Jekyll Themes
+### Extremely early in Development
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rootinstinct/BetterTimetable/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This is nowhere near finished and I'll guarantee you that a **SEVERE** lack of *features* and *bugs* are to be expected.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Problems?
+Let me know so I can sort out any bugs I've left out. https://github.com/rootinstinct/
